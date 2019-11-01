@@ -22,5 +22,8 @@
     "hooks": {
       "pre-push": "npm test"
     }
+  },
+  "dependencies": {
+    "prettier": "^1.18.2"
   }
 }
